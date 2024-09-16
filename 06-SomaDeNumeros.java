@@ -30,5 +30,4 @@ public class SomaDeNumeros {
 		sc.close();
 		
 	}
-
 }
