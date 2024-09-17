@@ -6,5 +6,4 @@ public class OlaMundo {
 		
 		System.out.println("Hello World!!!");
 	}
-
 }
