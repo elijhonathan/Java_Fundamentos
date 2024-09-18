@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class SomaDeNumeros {
 	
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -19,11 +20,13 @@ public class SomaDeNumeros {
 		
 		int resto = soma % 2;
 		
-		if(resto == 0) {
+		if(resto == 0) 
+		{
 			System.out.println("A soma é par");
 		}
 		
-		else {
+		else 
+		{
 			System.out.println("A soma é ímpar");
 		}
 		
